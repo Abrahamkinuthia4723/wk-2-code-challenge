@@ -45,7 +45,7 @@ Javascript.
 
 Github.
 
-## Support details.
+## Support and contact details.
 Github.com/Abrahamkinuthia4723.
 
 ## License.
